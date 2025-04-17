@@ -27,10 +27,7 @@
 	 * Environment Variables
 	 * https://developers.cloudflare.com/workers/wrangler/configuration/#environment-variables
 	 */
-	"vars": {
-		"NOTION_API_KEY": "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",
-		"ENDAVA_WORK_DIARIES_DATABASE_ID": "18e40a39-5f6c-8016-a14e-fbe51747e80c"
-	}
+	"vars": {}
 	/**
 	 * Note: Use secrets to store sensitive data.
 	 * https://developers.cloudflare.com/workers/configuration/secrets/
